@@ -4,7 +4,7 @@
 <div  align="center" >
 <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFwN2JoZnFqYzdhYzl1bGU1enFqdTRpaGV0cTh4Z3Jxd2c0c211ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" height="270"">
 </div>
-- 🌱 I’m currently learning **python , HTML , CSS**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **nbdm130@gmail.com**
 
